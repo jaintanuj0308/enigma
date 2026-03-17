@@ -1,0 +1,10 @@
+node_modules/
+.env
+.DS_Store
+backend/ideas.db
+backend/ideas.db-shm
+backend/ideas.db-wal
+dist/
+dist-ssr/
+*.local
+.vscode/
